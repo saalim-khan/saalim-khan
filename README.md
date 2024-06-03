@@ -17,7 +17,6 @@
 <p align="left">
 <a href="https://twitter.com/saalim9702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saalim9702" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saalim-khan-222946252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saalim-khan-222946252" height="30" width="40" /></a>
-<a href="https://instagram.com/khansaalim1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khansaalim1998" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@ksaalim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ksaalim" height="30" width="40" /></a>
 </p>
 
