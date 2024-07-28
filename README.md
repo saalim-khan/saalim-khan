@@ -9,7 +9,6 @@
 
 - 🌱 I’m currently learning **Terraform,aws and kubernetes**
 
-- 👨‍💻 All of my projects are available at [https://github.com/saalim-khan](https://github.com/saalim-khan)
 
 - 📝 I regularly write articles on--> [Khan-Saalim.medium.com](https://medium.com/@ksaalim418)
 
