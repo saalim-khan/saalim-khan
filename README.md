@@ -11,6 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/saalim-khan](https://github.com/saalim-khan)
 
+- - 📝 I regularly write articles on--> [Khan-Saalim.medium.com](https://medium.com/@ksaalim418)
+
+
 - 📫 How to reach me **ksaalim418@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
