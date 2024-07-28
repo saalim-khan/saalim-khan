@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saalim-khan&label=Profile%20views&color=0e75b6&style=flat" alt="saalim-khan" /> </p>
 
 
-
+- 👨‍💻 All of my Social and Projects account--> [Link tree](https://linktr.ee/saalimk)
 
 
 - 🌱 I’m currently learning **Terraform,aws and kubernetes**
