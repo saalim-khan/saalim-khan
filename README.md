@@ -7,13 +7,12 @@
 - 👨‍💻 All of my Social and Projects account--> [Link tree](https://linktr.ee/saalimk)
 
 
-- 🌱 I’m currently learning **Terraform,aws and kubernetes**
-
-
 - 📝 I regularly write articles on--> [Khan-Saalim.medium.com](https://medium.com/@ksaalim418)
 
 
 - 📫 How to reach me **ksaalim418@gmail.com**
+
+- 🌱 I’m currently learning **Terraform,aws and kubernetes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
